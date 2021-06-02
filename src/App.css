@@ -131,3 +131,35 @@ align-items: flex-start;
   color: #ffffff;
   font-size: 1em;
 }
+
+.grass {
+  background-color: green;
+}
+.water {
+  background-color: blue;
+}
+.bug {
+  background-color: rgb(46, 150, 46);
+}
+.fire {
+  background-color: red;
+}
+.psychic {
+  background-color: fuchsia;
+}
+.poison {
+  background-color: purple;
+}
+.rock {
+  background-color: rgb(118, 138, 53);
+}
+.flying {
+  background-image: linear-gradient(blue, gray) ;
+}
+.normal {
+  background-color: gray;
+}
+
+.habilidade{
+  margin: 2px;
+}
